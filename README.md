@@ -1,2 +1,1 @@
-# Python-project-to-generate-Success-Failure-Response
-The user needs to manually enter the name, amount, notification time, and payment time. After running the code, this will generate a UI response, which you can use for Prank Purpose
+To generate a success image, please use the "paytm.py" file. For a failure image, use the "payfail.py" file. It is important not to delete the two edited images, as it may cause issues. You can update the output name as desired
